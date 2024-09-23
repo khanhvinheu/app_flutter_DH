@@ -1,0 +1,26 @@
+{
+  "@@locale": "vi",
+  "companion": "ĐỒNG HÀNH", 
+  "greeting": "Xin chào {name}!",
+  "username": "Tên đăng nhập",
+  "password": "Mật khẩu",
+  "home": "Trang chủ",
+  "account": "Tài khoản",
+  "theme": "Giao diện",
+  "logout": "Đăng xuất",
+  "lang": "Ngôn ngữ",
+  "login": "ĐĂNG NHẬP",  
+  "thongtinvungtrong":"Thông tin vùng trồng",
+  "vietnam":"Việt Nam",
+  "english":"Tiếng Anh",
+  "setting":"Cài đặt",
+  "register":"Đăng ký mới",
+  "forgotPassword":"Quên mật khẩu",
+  "sendResetLink":"Send reset link",
+  "passwordResetRequest":"Password reset request",
+  "email":"email",
+  "nonetwork":"Không có kết nối mạng!",
+  "wellcometoapp":"Welcome to COMPANY",
+  "register_account":"Đăng ký tài khoản"
+  
+}
